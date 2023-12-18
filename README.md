@@ -4,3 +4,6 @@ Implements a priority queue using a linked list structure (PQueueNode). This pri
 
 ## Schedular
 Implements a scheduling simulation for two scheduling algorithms: First-Come, First-Served (FCFS) and Shortest Job First (SJF). 
+
+## Synchronization
+Implements a multi-producer, multi-consumer problem using pthreads and a shared buffer. It simulates the interaction between producers and consumers and demonstrates thread synchronization using mutex locks.
