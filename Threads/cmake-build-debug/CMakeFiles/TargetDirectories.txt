@@ -1,0 +1,3 @@
+/Users/jamesbush/Library/CloudStorage/OneDrive-UniversityofVermont/seniorYear/operatingSystems/codingAssignment/assignment3Threads/cmake-build-debug/CMakeFiles/assignment3Threads.dir
+/Users/jamesbush/Library/CloudStorage/OneDrive-UniversityofVermont/seniorYear/operatingSystems/codingAssignment/assignment3Threads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jamesbush/Library/CloudStorage/OneDrive-UniversityofVermont/seniorYear/operatingSystems/codingAssignment/assignment3Threads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
