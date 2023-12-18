@@ -7,3 +7,6 @@ Implements a scheduling simulation for two scheduling algorithms: First-Come, Fi
 
 ## Synchronization
 Implements a multi-producer, multi-consumer problem using pthreads and a shared buffer. It simulates the interaction between producers and consumers and demonstrates thread synchronization using mutex locks.
+
+## Threads
+Performs parallel counting using multiple threads to count the number of elements in an array that satisfy the given condition.
